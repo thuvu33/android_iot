@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/layout-v11/abc_action_bar_decor.xml"
+    }
+]

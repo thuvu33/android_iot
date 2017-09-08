@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    }
+]
