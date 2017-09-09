@@ -1,0 +1,4 @@
+#Sat Sep 09 12:34:49 ICT 2017
+base.0=/data/workspace/android/Shimizu/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/data/workspace/android/Shimizu/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

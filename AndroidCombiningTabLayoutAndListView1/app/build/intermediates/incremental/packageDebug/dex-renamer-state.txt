@@ -1,7 +1,0 @@
-#Sun Sep 03 16:49:29 ICT 2017
-base.0=/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_257c1c0382e7e34fe9fd81edcb176244f37c6248
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7c08c8d3b1a01257185c34d2cc8cbfeafb63848/classes.dex
-base.1=/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e7c08c8d3b1a01257185c34d2cc8cbfeafb63848
-file.0=/data/workspace/android/AndroidCombiningTabLayoutAndListView1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_257c1c0382e7e34fe9fd81edcb176244f37c6248/classes.dex

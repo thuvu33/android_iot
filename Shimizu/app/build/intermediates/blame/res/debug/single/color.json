@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/color/abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

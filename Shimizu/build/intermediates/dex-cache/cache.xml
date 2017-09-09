@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_829c1eeb98b7660d892084ee9c9ce97f83ccac3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/e286b3ac45df7410c26a067ee1b7b8c32b550494/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_6596e9ac826b8c2191c04a02807b617a1ab4b5b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/4c3515eb4568833bfd36b8d76949fd753c72d164/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_fdb7f848b31dc8057c2e8f5af6470c9e0aa50001.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/da975fc1a07ba97a4a0ad1d1aaf5555fa5b821cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_f412aa4fce6f8f130c43b71c04244514244d4252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_3c9530abb63621372b15ffd35ae19628c1271cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/132f9921ab92dc985603bc8326cd0427490c7ea9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_403975ef4fa97af68bb7b20c5b23fbfb77683edd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/3d191fe306069765caa9ebdae2421c1a9cd66c98/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_c74f0847cf6a998b3bcff1e8e9657bbbb50e5808.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_7a60a7b4cbad11a3f242f9300a19c5871d5acfc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/01f08723605a1c16cd12466e593e41174c8b1a35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_9c6d24fc7a7d5c924a06250a4f8d977287c81d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/969367d5117b1490d190693f5efe5f7ee94d5a6e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_90a3661ed80eb73c830d58d8601f8fb59e6521d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/e999406794a7b0c4ecbb07f9ba19e1e88f272c0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_4f618db4d5298664dc6d799614bb87c8dfdf41a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_cd433f3150a964901306f0a911001edb7c4249db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/b8c75d09e4cfc9f39f8d98b7a9ee89d80224da38/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_4769f534fb832f7c384cf26b7b466caf750fa41e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pacce/.android/build-cache/a9fbf9711d9252860aabf3fefb72a43c730192ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/data/workspace/android/Shimizu/app/build/intermediates/pre-dexed/debug/classes_c14139df2705dec63e1830738ce6c0bfda3865e0.jar" />
+    </item>
+
+</items>

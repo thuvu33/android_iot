@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/nameDeviceDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Phao so 1"/>
+
+    <TextView
+        android:id="@+id/temperature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nhiet do mat nuoc: 25"/>
+
+    <TextView
+        android:id="@+id/pH"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Luong pH: 10"/>
+
+    <TextView
+        android:id="@+id/clarity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Do duc: 10" />
+
+    <TextView
+        android:id="@+id/DO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Luong Oxy: 7mg"/>
+
+    <TextView
+        android:id="@+id/salinity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Do man: 10mg"/>
+
+    <TextView
+        android:id="@+id/ORP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ORD"/>
+
+    <TextView
+        android:id="@+id/water_flow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Luu luong nuoc: 100m/s"/>
+
+    <TextView
+        android:id="@+id/light_intensity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cuong do sang: 10"/>
+</LinearLayout>

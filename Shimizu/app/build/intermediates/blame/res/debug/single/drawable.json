@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/icon_profile.xml",
+        "source": "/data/workspace/android/Shimizu/app/src/main/res/drawable/icon_profile.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/icon_inbox.xml",
+        "source": "/data/workspace/android/Shimizu/app/src/main/res/drawable/icon_inbox.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_ic_clear.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/icon_outbox.xml",
+        "source": "/data/workspace/android/Shimizu/app/src/main/res/drawable/icon_outbox.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/home/pacce/.android/build-cache/8472e1cc008d77b830ecf75934a0c0bae60cd5dd/output/res/drawable/abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/data/workspace/android/Shimizu/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/pacce/.android/build-cache/1a8dcf0d2e8945683cc90d05fcf7521ccfb524e9/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    }
+]
